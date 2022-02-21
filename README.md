@@ -7,7 +7,7 @@ This entire plugin is hypothetical at the moment as I have no real time to progr
   - On wall collision/mistake
   - On song time elapsed
 - Actions
-  - Fail/end level
+  - Set/add/remove health bar value
   - Move/rotate player/group
   - Display text
 - Integer variable storing and reading
