@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("ChartingExtensions")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Allows for mappers to change their map based on player input and allows players to play them!")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Orius")]
 [assembly: AssemblyProduct("ChartingExtensions")]
 [assembly: AssemblyCopyright("Copyright © Orius 2022")]
 [assembly: AssemblyTrademark("")]
